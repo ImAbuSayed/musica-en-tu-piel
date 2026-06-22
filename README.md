@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el calor que me deja tu mirada
+> La noche mola y tú eres la indicada
+> Un poco 'e humo, de neón y de fuego
+> Quiero perderme esta noche en tu juego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
