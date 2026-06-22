@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/musica-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Música en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/musica-en-tu-piel/) |
+| **Get License** | [Secure Licensing Rights for Música en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/musica-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d25e9643fd0f05688d51091013d9e6cafb31dcceb974408024e282426b356056` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Música en tu piel
+
+This log tracks the cryptographic history and versioning for the song **Música en tu piel** (musica-en-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:15:59.701663 | `v1` | `d25e9643fd0f05688d51091013d9e6cafb31dcceb974408024e282426b356056` | `72b5ee9c61c189f875e340a11a2beb0dec9337ed79a26fd9f4cc587fd53287a4` | `2026-06-22_musica-en-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
